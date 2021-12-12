@@ -215,3 +215,11 @@ select{
         align-items: flex-start;
     }
 }
+
+/*UC12-On document load set event listener*/
+error-output{
+    margin-left: 10px;
+    font-style: 12px;
+    font-style: italic;
+    color: red;
+}
